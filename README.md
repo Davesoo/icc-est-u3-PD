@@ -5,5 +5,7 @@ Fibonacci recursivo
 Resultado = 12586269025 en tiempo = 37575388200 ns
 Fibonacci recursivo con Caching
 Resultado = 3736710778780434371 en tiempo = 0 ns
+(La computadora del laboratorio no me dejó sacar captura)
 
 //Segundo ejercicio:
+![alt text](image.png)
